@@ -1,8 +1,8 @@
 # demo-test
-This is for SCM demo project
+This is for CTU Tech Talk
 
 # Introduction 
-This is a Demo Project for IT EL3
+This is a Demo Project for Tech Talk
 
 # Getting Started
 Directory/File Structure
